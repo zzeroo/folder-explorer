@@ -1,4 +1,4 @@
-Werkzeug zur Arbeit mit vielen Dokumenten
+Werkzeug zur Dokumenten Verwaltung
 
 # Folder Explorer
 
