@@ -2,6 +2,10 @@ Werkzeug zur Dokumenten Verwaltung
 
 # Folder Explorer
 
+[![Build Status](https://travis-ci.org/zzeroo/folder-explorer.svg?branch=master)](https://travis-ci.org/zzeroo/folder-explorer)
+[![Build status](https://ci.appveyor.com/api/projects/status/egc9u4pvejcy2hqo/branch/master?svg=true)](https://ci.appveyor.com/project/zzeroo/folder-explorer/branch/master)
+
+
 > **Achtung!!! Diese Software  ist in einer frühen Alpha Phase.**
 > Änderungen können und werden jederzeit auftreten.
 
